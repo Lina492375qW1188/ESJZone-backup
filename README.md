@@ -6,3 +6,5 @@ Prepare a folder called "ESJZone" in the same directory as this python file or j
 ```
 python3 ESJZone_backup.py -url https://www.esjzone.cc/detail/1557379934.html -skip 100
 ```
+
+![image](https://user-images.githubusercontent.com/22850008/129434429-6ef8d8bc-5d93-4bf8-a665-2c24a93a7467.png)
